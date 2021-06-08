@@ -1,4 +1,4 @@
 matplotlib==2.2.3
 python==3.7
-pillow==5.4.1
+pillow==8.2.0
 numpy
